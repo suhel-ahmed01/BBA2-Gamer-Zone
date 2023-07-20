@@ -166,3 +166,114 @@ padding-left: 180px;
     padding: 10px 100px;
 
 }
+
+.different-game-container{
+    width: 2200px;
+    height: 370px;
+    flex-shrink: 0;
+    margin-top: 10px;
+    padding-top: 200px;
+    background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
+
+    
+}
+
+.different-game-image-l1{
+    display: flex;
+    justify-content: center;
+    column-gap: 40px;
+    padding-bottom: 40px;
+}
+
+.different-game-image-l2{
+    display: flex;
+    justify-content: center;
+    column-gap: 40px;
+}
+
+
+.footer-container{
+    background-color: #8b6767;
+    width: 2200px;
+    height: 636px;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.footer-logo-container{
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+    font-size: x-large;
+    column-gap: 20px;
+}
+
+.footer-items-container{
+    color: white;
+    display: flex;
+    justify-content: center;
+    column-gap: 40px;
+    font-size: larger;
+    padding-top: 20px;
+    
+}
+
+.fa-button{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    color: white;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-twitter {
+    color: white;
+  }
+
+  .fa-facebook {
+    color: white;
+  }
+
+  .fa-youtube {
+    color: white;
+  }
+    
+  .fa-linkedin {
+    color: white;
+  }
+  
+  .fa-instagram {
+    color: white;
+  }
+
+  .fa-apple {
+    color: white
+  }
+  
+  .websites-policy{
+    display: flex;
+    justify-content: center;
+    column-gap: 40px;
+    color: white;
+  }
+
+  .copy-right{
+    display: flex;
+    justify-content: center;
+    color: rgba(255, 255, 255, 0.60);
+  }
+
+  
