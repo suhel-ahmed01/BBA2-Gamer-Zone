@@ -14,8 +14,10 @@ nav{
     min-height: 50px;
     display: flex;
     align-items: center;
-    max-width: 1400px;
-    margin: 0px auto;
+    max-width: 1800px;
+    background-color: #f5e2f5;
+    padding-left: 220px;
+    padding-right: 20px;
     
 }
 .logo-container{
@@ -90,10 +92,22 @@ padding-left: 180px;
 
 .primary-color{
     color: #f70af7;
-    text-size-adjust: larger;
-    
+    text-size-adjust: larger; 
 }
 
+.Sign-In-btn{
+    background-color: #f70af7;
+    border-radius: 48px; 
+    border:aliceblue;
+    color: aliceblue;
+}
+
+.Go-btn{
+    background-color: #f70af7;
+    border-radius: 48px; 
+    color: aliceblue;
+    border: aliceblue;
+}
 
 
 /* banner container ends here */
@@ -134,8 +148,15 @@ padding-left: 180px;
     padding: 0px 10px 10px 10px;
     border-radius: 16px;
     column-gap: 10px;
-
 }
+
+.btn-know-more{
+    background-color: #f70af7;
+    border-radius: 48px; 
+    color: aliceblue;
+    border: aliceblue;  
+}
+
 
 /* online gamer container ends here */
 
@@ -164,7 +185,19 @@ padding-left: 180px;
     max-width: 2000px;
     background-color: #f506c1e8; 
     padding: 10px 100px;
+    color: aliceblue;
+    column-gap: 20px;
+}
+.career-skill-location{
+    display: flex;
+    justify-content: center;
+}
 
+.career-btn{
+    background-color: #f3e9f3;
+    border-radius: 48px; 
+    color: rgb(245, 6, 205);
+    border: aliceblue;  
 }
 
 .different-game-container{
@@ -173,9 +206,7 @@ padding-left: 180px;
     flex-shrink: 0;
     margin-top: 10px;
     padding-top: 200px;
-    background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
-
-    
+    background: rgb(240, 238, 234)
 }
 
 .different-game-image-l1{
