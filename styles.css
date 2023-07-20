@@ -32,7 +32,7 @@ color: #e00f7b;
 
 .logo-container img{
     display: block;
-    width: 86px;
+    width: 96px;
     height: 60px;
     margin-right: 20px;
     padding-top: 40px;
@@ -84,4 +84,50 @@ color: #e00f7b;
 }
 
 /* nav design ends here */
+
+.banner-container{
+    min-height: 50px;
+    display: flex;
+    align-items: center;
+    max-width: 2000px;
+    margin: 0px auto;
+    background-color: #ebe3e3;    
+}
+
+.banner-content{
+text-align: justify;
+padding-left: 180px;
+
+}
+
+.primary-color{
+    color: #f70af7;
+    text-size-adjust: larger;
+    
+}
+
+.banner-img{
+    padding-left: 400px;
+
+}
+
+/* banner container ends here */
+
+.gamer-container{
+    min-height: 50px;
+    display: flex;
+    align-items: center;
+    max-width: 2000px;
+    margin: 10px auto;
+    background-color: #ebe3e3;  
+
+}
+
+
+.gamer-content{
+    text-align: end;
+    padding-left: 300px;
+}
+
+
 
